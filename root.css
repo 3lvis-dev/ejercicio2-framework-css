@@ -65,7 +65,6 @@
     background-color: var(--color-white);
     color: var(--color-black);  
     box-shadow: 1px 1px 0px 2px var(--color-black);
-    mar
 }
 .content_buttons_fill .btn_dark{
     background-color: var(--color-black);
